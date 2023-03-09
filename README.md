@@ -16,7 +16,7 @@ Elzero Web School Js Course Assignments Solutions 💻
 
 <h2> 2️⃣ Data Types And Variables
 </h2>
-<a href="#">codes for lessons from [001] to [009] </a><br>
+<a href="#">codes for lessons from [010] to [017] </a><br>
  • <a href="" >Assignment 1 </a> <br>
  • <a href="" >Assignment 2 </a><br>
  • <a href="" >Assignment 3 </a><br>
